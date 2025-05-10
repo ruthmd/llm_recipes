@@ -1,0 +1,10 @@
+pandas
+numpy
+nltk
+rouge-score
+scikit-learn
+sentence-transformers
+transformers
+torch
+faiss-cpu
+tqdm
